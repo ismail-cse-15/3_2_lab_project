@@ -1,2 +1,7 @@
-# Database-Lab-Project
-This is my third  year Database system lab group project.
+Create a database named hms1.
+Create a folder in htdoc folder maned hms1
+Download all file.
+Insert databse file hms.sql
+Others insert into hms1 folder
+
+
